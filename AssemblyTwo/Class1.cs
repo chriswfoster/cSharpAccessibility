@@ -2,7 +2,11 @@
 
 namespace AssemblyTwo
 {
-    public class Class1
+    public class AssemblyTwoClassI
     {
+        public void Print()
+        {
+            AssemblyOneClassI A2 = new Assembly
+    }
     }
 }
